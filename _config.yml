@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "PhD"
+title                    : "César Fernández Ramírez, PhD"
 title_separator          : "-"
 name                     : &name "César Fernández Ramírez"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "cefera/cefera.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "César Fernández Ramírez"
   pronouns         : "he/him"  
   bio              : "Hadron physicist confined in front of a computer screen"
   location         : "Madrid, Spain"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=AsSoUjEAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-8979-5660"
   semantic         : # URL
